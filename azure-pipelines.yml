@@ -6,8 +6,8 @@
 trigger:
 - master
 
-pool: Test
-  #vmImage: ubuntu-latest
+pool: 
+  vmImage: ubuntu-latest
 
 
 steps:
